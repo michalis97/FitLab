@@ -1,1 +1,1 @@
-# FitLab Application Loading ..
+# Αρχικά στο directory src/User Interfaces έχουν αναρτηθεί μόνο οι διεπαφές της εφαρμογής χωρίς καμία λειτουργικότητα.
