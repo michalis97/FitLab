@@ -1,3 +1,5 @@
+package project_soft.mavenproject1;
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -234,7 +236,7 @@ public class Main_Class extends javax.swing.JFrame {
                 this.dispose();
                 break;   
                 case "Admin":
-                gym_owner go= new gym_owner();
+                Administrator go= new Administrator();
                 go.setVisible(true);
                 go.pack();
                 go.setLocationRelativeTo(null);

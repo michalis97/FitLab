@@ -1,3 +1,5 @@
+package project_soft.mavenproject1;
+
 
 import javax.swing.JFrame;
 

@@ -1,3 +1,5 @@
+package project_soft.mavenproject1;
+
 
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
@@ -152,7 +154,7 @@ public class AddOffer extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void StartPageActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_StartPageActionPerformed
-            gym_owner go= new gym_owner();
+            Administrator go= new Administrator();
                 go.setVisible(true);
                 go.pack();
                 go.setLocationRelativeTo(null);

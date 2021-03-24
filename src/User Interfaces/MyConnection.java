@@ -1,3 +1,5 @@
+package project_soft.mavenproject1;
+
 
 import java.sql.Connection;
 import java.sql.DriverManager;
